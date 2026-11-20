@@ -18,10 +18,6 @@ Le code du site (FastAPI, base SQLite, documents de l'école) est dans un **dép
 - Le site se met en veille après 15 minutes sans visite : le premier chargement peut prendre environ une minute.
 - À chaque réveil, la configuration est réinitialisée (compte administrateur, clé Albert, documents publiés). Un serveur avec disque persistant, par exemple une VM Docker à l'université, éviterait ce problème.
 
-## Modifier le lien
-
-Si l'adresse du site change, remplacer l'URL `https://assistant-stages-seatech-2ag6.onrender.com/` dans `index.html` (deux occurrences : le bouton et le cadre), puis enregistrer. GitHub Pages se met à jour en une à deux minutes.
-
 ## Contexte
 
 Projet réalisé dans le cadre de l'atelier IA, SeaTech.
