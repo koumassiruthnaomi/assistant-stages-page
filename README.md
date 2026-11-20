@@ -8,7 +8,6 @@ Page d'accueil publique de l'**Assistant stages SeaTech**, un assistant IA qui r
 
 Un seul fichier, `index.html` : une page statique avec un bouton et un cadre qui renvoient vers l'assistant. Elle est publiée avec **GitHub Pages**.
 
-Ce dépôt est **public** parce que GitHub Pages ne fonctionne gratuitement qu'avec un dépôt public. Il ne contient aucun secret.
 
 ## Où se trouve le reste
 
