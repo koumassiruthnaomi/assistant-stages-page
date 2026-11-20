@@ -21,5 +21,8 @@ Le code du site (FastAPI, base SQLite, documents de l'école) est dans un **dép
 - À chaque réveil, la configuration est réinitialisée (compte administrateur, clé Albert, documents publiés). Un serveur avec disque persistant, par exemple une VM Docker à l'université, éviterait ce problème.
 
 ## Contexte
-
 Projet réalisé dans le cadre de l'atelier IA, SeaTech.
+
+## Ma contribution
+
+J’ai créé la page d’accueil de l’Assistant stages SeaTech et l’ai publiée sur GitHub Pages. J’assure également la maintenance de l’assistant hébergé sur Render.
